@@ -1,0 +1,12 @@
+{
+    "host_list": [
+        {
+            "host_name": "localhost",
+            "ip_addr": "127.0.0.1"
+        },
+        {
+            "host_name": "localhost",
+            "ip_addr": "127.0.0.2"
+        }
+    ]
+}
